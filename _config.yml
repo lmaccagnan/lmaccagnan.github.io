@@ -4,4 +4,4 @@ description: A description of your site.
 url: https://username.github.io
 
 # Theme settings
-theme: jekyll-theme-minimal # Replace with your desired theme
+theme: jekyll-theme-slate # Replace with your desired theme
