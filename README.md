@@ -24,6 +24,6 @@ The primary challenge in completing this project is scheduling and securing info
 -	A revised resume, tailored cover letter templates, and an updated LinkedIn profile that showcase my qualifications and transferable skills.
 
 ## Weekly updates
-[Week 2](weeklyupdates.md### Week 2: )
+[Week 2](weeklyupdates.md###Week-2:)
 
 
