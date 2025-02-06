@@ -14,3 +14,12 @@ This week, my primary focus is on finishing my website and reviewing the informa
 
 Currently, I do not have any blockers. In terms of process, I have found that writing things down and collaborating with others significantly enhances my productivity and clarity. I plan to continue using these strategies as I move forward, ensuring that I stay organized and on track with my objectives.
 
+### Week 4:
+Last week, I made significant progress by finalizing my website and reading The 2-Hour Job Search, which provided valuable insights into structuring an effective job search process.
+
+This week, my focus has shifted to exploring career opportunities within the data science and research fields. I am researching different roles to gain a clearer understanding of their responsibilities, required qualifications, and how they align with my skills and experience. This will help refine my job search strategy and ensure I am targeting roles that best fit my strengths and career goals.
+
+So far, I have not encountered any blockers. The process I’ve been following has been working well, though after reading The 2-Hour Job Search, I may need to adjust my future timeline. However, this is still to be determined as I continue refining my strategy.
+
+
+
