@@ -21,5 +21,12 @@ This week, my focus has shifted to exploring career opportunities within the dat
 
 So far, I have not encountered any blockers. The process I’ve been following has been working well, though after reading The 2-Hour Job Search, I may need to adjust my future timeline. However, this is still to be determined as I continue refining my strategy.
 
+### Week 5:
+Last week, I focused on researching job titles within data science, starting with a broad perspective and then narrowing my focus to more specific applications. This helped me gain a better understanding of the diverse opportunities available within the field.  
 
+This week, I am shifting my attention to understanding the context in which I want to work as a data scientist. Rather than just identifying job titles, I am focusing on the environments, industries, and types of organizations that align with my interests and skills. This will allow me to create a targeted list of employers for informational interviews, ensuring my networking efforts are intentional and aligned with my long-term career goals.  
+
+One challenge I have encountered is getting distracted by job postings, even though I am not currently looking for a position. Since I still have two semesters left with a full course load, taking on a new job right now is not feasible. Additionally, I have realized that the range of data science roles is vast, and I need to spend more time clarifying the unique context in which I want to work. Recognizing this early was important, as it has allowed me to revise my approach.  
+
+To stay focused on the bigger picture, I am adopting a design approach outlined in *Design Your Life* by Bill Burnett and Dave Evans. This framework will help me think more strategically about my career path, ensuring that my job search process is both structured and aligned with my personal and professional goals.
 
