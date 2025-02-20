@@ -30,3 +30,10 @@ One challenge I have encountered is getting distracted by job postings, even tho
 
 To stay focused on the bigger picture, I am adopting a design approach outlined in *Design Your Life* by Bill Burnett and Dave Evans. This framework will help me think more strategically about my career path, ensuring that my job search process is both structured and aligned with my personal and professional goals.
 
+### Week 6:
+Last week, I read Designing Your Life and completed the exercises in the book. One of the most impactful activities was creating Odyssey Plans—three different five-year career paths I could take. This exercise helped me visualize multiple possibilities for my future. Another key takeaway was refining my approach to informational interviews. While The 2-Hour Job Search focuses on networking to secure an internal advocate for job opportunities, Designing Your Life introduces "prototyping conversations," which are more about exploring roles and determining if they are the right fit. Given my current uncertainty and longer timeline for job applications, this approach makes more sense for me. The book also emphasizes prototyping experiences in different ways to test out potential career directions before committing fully.
+
+Next week, I plan to explore LinkedIn more deeply—both to leverage its lifelong learning resources and to update my profile before actively building my network. I also want to familiarize myself with LinkedIn’s features to effectively find and connect with people.
+
+I don’t have any blockers at this time. I recognized that my process was leading me slightly off track, but I now feel like I’m back on the right path.
+
