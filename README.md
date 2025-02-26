@@ -36,5 +36,5 @@ The primary challenge in completing this project is scheduling and securing info
 [Week 4](weeklyupdates.md###week-4)
 [Week 5](weeklyupdates.md###week-5)
 [Week 6](weeklyupdates.md###week-6)
-
+[Week 7](weeklyupdates.md###week-7)
 
