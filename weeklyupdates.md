@@ -37,3 +37,12 @@ Next week, I plan to explore LinkedIn more deeply—both to leverage its lifelon
 
 I don’t have any blockers at this time. I recognized that my process was leading me slightly off track, but I now feel like I’m back on the right path.
 
+### Week 7:
+Last week, I focused on LinkedIn, both for its lifelong learning resources and for my project. I updated my profile, searched for and joined relevant groups, and explored different ways to find professionals for potential informational interviews. Additionally, I discovered Handshake through CU’s Career Services, which may also be a valuable resource for networking and job exploration.
+
+Next week, I will finalize the protocol for my informational/prototype interviews and create a targeted list of people I want to reach out to. This will help streamline the process and ensure I have a clear approach before initiating conversations.
+
+I don’t have any significant blockers, but I am facing a dilemma with my Handshake profile. The education section does not list my Education Specialist (EdS) degree in Administrative Leadership and Policy Studies as an option. Since it’s more advanced than a master’s but not a doctorate, I’m unsure how to accurately represent it within the platform’s forced-choice options.
+
+The process and timeline I’ve set up are working well. As I begin scheduling informational interviews, I anticipate some scheduling challenges due to potential conflicts between my work availability and that of the professionals I’m reaching out to. I plan to remain as flexible as possible to accommodate different schedules.
+
