@@ -46,3 +46,9 @@ I don’t have any significant blockers, but I am facing a dilemma with my Hands
 
 The process and timeline I’ve set up are working well. As I begin scheduling informational interviews, I anticipate some scheduling challenges due to potential conflicts between my work availability and that of the professionals I’m reaching out to. I plan to remain as flexible as possible to accommodate different schedules.
 
+### Week 8:
+Last week, I compiled a list of companies that interest me. While this approach still aligns somewhat with a "find a job" mindset, it serves as a tool to identify people within these organizations whose roles intrigue me for prototyping interviews. I started by exploring different sectors based on my personal passions and past experiences, then listed relevant companies and organizations. I also began identifying potential interviewees and conducted my first prototyping interview.
+
+Next week, I plan to expand both my company and interviewee lists. To do this, I will apply strategies from The 2-Hour Job Search, such as exploring related companies through the "People Also Viewed" section on LinkedIn and identifying organizations featured in articles that capture my interest. I will also leverage alumni connections and continue expanding my network through personal and professional contacts.
+
+I do not have any blockers, but upon reflecting on last week's conversation, I realize I didn’t gain as much actionable insight as I had hoped. While I found the person's story compelling, I’m uncertain how to translate it into next steps. One initial thought is that the purpose may simply be to identify which aspects of their role resonate with me and warrant further exploration. Shifting from a job-seeker mindset to one of pure learning may be a challenge, but it’s something I need to reflect on further.
