@@ -52,3 +52,12 @@ Last week, I compiled a list of companies that interest me. While this approach 
 Next week, I plan to expand both my company and interviewee lists. To do this, I will apply strategies from The 2-Hour Job Search, such as exploring related companies through the "People Also Viewed" section on LinkedIn and identifying organizations featured in articles that capture my interest. I will also leverage alumni connections and continue expanding my network through personal and professional contacts.
 
 I do not have any blockers, but upon reflecting on last week's conversation, I realize I didn’t gain as much actionable insight as I had hoped. While I found the person's story compelling, I’m uncertain how to translate it into next steps. One initial thought is that the purpose may simply be to identify which aspects of their role resonate with me and warrant further exploration. Shifting from a job-seeker mindset to one of pure learning may be a challenge, but it’s something I need to reflect on further.
+
+### Week 9:
+Last week, I expanded my list of companies and individuals to connect with and refined my interview process. I revisited the three career plans I developed earlier, using them as a guide to identify relevant organizations and people. One area I’m exploring is leveraging data analysis to inform policy, which led me to a different set of companies and organizations. Another focus is the possibility of starting my own business, shaping my search through that lens.
+
+Reflecting on my recent interview, I gained valuable insights into the person’s career path but didn’t dive deeply enough into the day-to-day realities of the role. I heard an inspiring story about using data to improve healthcare outcomes for children but didn’t probe into what that work looked like in practice. Given that this will be my “encore” career, I want to be intentional about the conditions in which I work, including work-life balance and collaboration dynamics. Understanding how collaboration functions within different organizations is particularly important to me.
+
+Next week, I plan to expand my outreach efforts to schedule and conduct more interviews.
+
+I don’t have any blockers at this time. Now that I have greater clarity on my interview protocol and desired outcomes, I feel confident that my process is on track.
