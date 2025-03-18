@@ -61,3 +61,13 @@ Reflecting on my recent interview, I gained valuable insights into the person’
 Next week, I plan to expand my outreach efforts to schedule and conduct more interviews.
 
 I don’t have any blockers at this time. Now that I have greater clarity on my interview protocol and desired outcomes, I feel confident that my process is on track.
+
+### Week 10:
+Last week, I reached out to several people to conduct interviews. I found it easier to connect with individuals I had some prior interaction with—even if it was just a brief meeting—than to reach out to complete strangers. While searching for potential connections on LinkedIn, I noticed that many people have their contact information hidden unless they are within my network.
+
+So far, I have used LinkedIn messages to reach out and am awaiting several responses. To expand my outreach, I plan to use Hunter.io to find email addresses and connect with people directly via email.
+
+Next week, I will continue reaching out and conducting interviews.
+
+I do not have any unexpected blockers at this time. I anticipated that scheduling interviews might be challenging, but with spring break next week, I believe the additional flexibility will help mitigate delays in getting responses.
+
