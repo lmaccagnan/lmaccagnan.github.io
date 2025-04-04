@@ -71,3 +71,11 @@ Next week, I will continue reaching out and conducting interviews.
 
 I do not have any unexpected blockers at this time. I anticipated that scheduling interviews might be challenging, but with spring break next week, I believe the additional flexibility will help mitigate delays in getting responses.
 
+### Week 11:
+Last week, I continued reaching out to individuals to request informational interviews. I updated my Handshake profile, reviewed resources from CU’s Career Office, and created a tracking system to monitor my outreach and interviews.
+
+Next week, I plan to continue scheduling additional interviews.
+
+Currently, I’m facing a challenge with receiving responses to my outreach. I’ve used both LinkedIn messages and direct emails, but my “cold” requests haven’t been effective, even with  CSPB alumni. When I do have a prior connection, I’ve been able to connect successfully. I understand that response rates are typically low, but I’ve been surprised at just how low they’ve been. I don’t expect immediate replies, but waiting without any response makes the process feel frustrating because I don’t want to lose time before the end of the semester.
+
+As I reflect, I plan to revise the language in my emails, particularly the subject line, to make them more engaging. I also intend to increase the number of outreach attempts in the coming week.
