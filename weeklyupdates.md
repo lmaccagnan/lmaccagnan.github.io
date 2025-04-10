@@ -79,3 +79,12 @@ Next week, I plan to continue scheduling additional interviews.
 Currently, I’m facing a challenge with receiving responses to my outreach. I’ve used both LinkedIn messages and direct emails, but my “cold” requests haven’t been effective, even with  CSPB alumni. When I do have a prior connection, I’ve been able to connect successfully. I understand that response rates are typically low, but I’ve been surprised at just how low they’ve been. I don’t expect immediate replies, but waiting without any response makes the process feel frustrating because I don’t want to lose time before the end of the semester.
 
 As I reflect, I plan to revise the language in my emails, particularly the subject line, to make them more engaging. I also intend to increase the number of outreach attempts in the coming week.
+
+### Week 12:
+Last week , I continued reaching out to individuals to request informational interviews and have been experiencing greater success. I also began developing ideas for “prototyping experiences” within my current role and am currently awaiting approval to begin working with Power BI to explore data and create visualizations.
+
+Next week, I have two interviews scheduled and plan to continue reaching out to additional individuals for informational conversations.
+
+I am not facing barriers at this point. I recognize the semester is coming to end, but I will continue this outreach after this class. This process has proven to be valuable for my long-term growth, and I’m learning to release the pressure of needing to “finish” within a set timeframe.
+
+As I reflect on this process in a general sense, I am excited to have the opportunity to talk to people and explore the unknown. I’ve rarely given myself the space to do this kind of exploratory work before, and I’m grateful for the chance to step into the unknown.
