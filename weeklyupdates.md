@@ -88,3 +88,17 @@ Next week, I have two interviews scheduled and plan to continue reaching out to 
 I am not facing barriers at this point. I recognize the semester is coming to end, but I will continue this outreach after this class. This process has proven to be valuable for my long-term growth, and I’m learning to release the pressure of needing to “finish” within a set timeframe.
 
 As I reflect on this process in a general sense, I am excited to have the opportunity to talk to people and explore the unknown. I’ve rarely given myself the space to do this kind of exploratory work before, and I’m grateful for the chance to step into the unknown.
+
+### Week 13:
+Last week, I had several informational interviews that helped clarify some of the career paths I’m considering. One particularly insightful conversation was with someone who started and currently runs her own business—the first time I’ve spoken with an entrepreneur in this context. She introduced me to Lean Canvas, a one-page business modeling tool that helps structure and evaluate new ideas.
+
+We also discussed the role of AI in data science, a topic that also came up in my conversation with Dr. Guinn. Both individuals emphasized how AI can handle routine tasks, allowing professionals to focus on more complex problems and projects that often get deprioritized. During my conversation with Dr. Guinn and others in office hours, I appreciated hearing perspectives on how AI-related coursework in our program connects to different career directions within data science.
+
+Additionally, I made progress in my current role toward doing broader data analysis work. This will allow me to gain hands-on experience and identify what aspects of data work I find most engaging, as well as being exposed to additional tools.
+
+Next week, I plan to continue following up on outreach and schedule new informational interviews. I’m particularly interested in exploring data analysis in the athletic performance space. My first bachelor’s degree was in Kinesiology, and I’ve always had a strong interest in human performance. I’m curious to see where the industry stands today and how data science is being applied.
+
+I’ll also begin drafting my final project report.
+
+I don’t have any blockers at this time. While there’s always room for refining my process, things are progressing well overall.
+
