@@ -102,3 +102,19 @@ I’ll also begin drafting my final project report.
 
 I don’t have any blockers at this time. While there’s always room for refining my process, things are progressing well overall.
 
+### Week 14:
+Last week, I continued my outreach efforts to schedule informational interviews. I successfully scheduled a conversation with a company that uses data in golf coaching, and I’m curious to learn more about what that work entails. I’ve developed a good routine of outreach and follow-up, and I’m currently averaging about one interview per week.
+
+This has become a steady process—so much so that my weekly updates could be titled “Rinse and Repeat.” There’s a clear structure: one part focused on initiating connections, and another centered on reflection after each interview. One unexpected benefit has been the renewed sense of excitement and curiosity I’ve felt as I explore the wide range of possibilities out there.
+
+As the semester wraps up, my next steps will be to summarize my experiences and insights in the final report.
+
+### Week 14:
+Last week, I set up two additional interviews and reconnected with the person from my first interview to begin a prototyping experience. I will be learning Power BI and conducting an analysis of customer experience and satisfaction data for the leadership team at my workplace. 
+
+As I’ve said before, this has been an incredibly valuable process—and I know I’m still just at the beginning. I have another year left to complete the program, and by the time I’m ready to fully transition careers, I expect to have a strong professional network and a much clearer sense of direction.
+
+It has also become clear that AI, machine learning, and natural language processing will play a central role in the future of data science. In addition to the required courses I still need to complete, I plan to take linear algebra, data mining, natural language processing, and machine learning to build a stronger foundation in these areas.
+
+
+
