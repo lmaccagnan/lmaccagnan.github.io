@@ -1,4 +1,5 @@
-# 3122 Project Website
+# Prototyping Possibilities – A Career Transition Project
+
 
 ## Project Proposal
 
@@ -31,20 +32,20 @@ The primary challenge in completing this project is scheduling and securing info
 -	A revised resume, tailored cover letter templates, and an updated LinkedIn profile that showcase my qualifications and transferable skills.
 
 ## Weekly updates
-[Week 2](weeklyupdates.md###week-2)
-[Week 3](weeklyupdates.md###week-3)
-[Week 4](weeklyupdates.md###week-4)
-[Week 5](weeklyupdates.md###week-5)
-[Week 6](weeklyupdates.md###week-6)
-[Week 7](weeklyupdates.md###week-7)
-[Week 8](weeklyupdates.md###week-8)
-[Week 9](weeklyupdates.md###week-9)
-[Week 10](weeklyupdates.md###week-10)
-[Week 11](weeklyupdates.md###week-11)
-[Week 12](weeklyupdates.md###week-12)
-[Week 13](weeklyupdates.md###week-13)
-[Week 14](weeklyupdates.md###week-14)
-[Week 15](weeklyupdates.md###week-15)
+[Week 2](weeklyupdates.md###week-2) | 
+[Week 3](weeklyupdates.md###week-3) | 
+[Week 4](weeklyupdates.md###week-4) | 
+[Week 5](weeklyupdates.md###week-5) | 
+[Week 6](weeklyupdates.md###week-6) | 
+[Week 7](weeklyupdates.md###week-7) | 
+[Week 8](weeklyupdates.md###week-8) | 
+[Week 9](weeklyupdates.md###week-9) | 
+[Week 10](weeklyupdates.md###week-10) | 
+[Week 11](weeklyupdates.md###week-11) | 
+[Week 12](weeklyupdates.md###week-12) | 
+[Week 13](weeklyupdates.md###week-13) | 
+[Week 14](weeklyupdates.md###week-14) | 
+[Week 15](weeklyupdates.md###week-15) | 
 
 ## Final Project Report
 
@@ -95,12 +96,12 @@ This project was exactly what I needed at this point in the program. I was initi
 
 ### Bibliography
 
-Burnett, B., & Evans, D. J. (2016). *Designing your life: How to build a well-lived, joyful life*. Knopf.  
-Dalton, S. (2020). *The 2-hour job search: Using technology to get the right job faster* (2nd ed.). Ten Speed Press.  
-Dalton, S. (2018). *The job closer: Time-saving techniques for acing resumes, interviews, negotiations, and more*. Ten Speed Press.  
-Figueroa, M. (2023, March 7). *Your guide to landing a data science job*. Handshake. https://joinhandshake.com/blog/students/data-science-jobs/  
-Indeed Editorial Team. (2023, December 26). *15 types of data science jobs (with descriptions)*. Indeed Career Guide. https://www.indeed.com/career-advice/finding-a-job/types-of-data-science-jobs  
-Indeed Editorial Team. (2023, December 13). *Top 13 data scientist skills to develop*. Indeed Career Guide. https://www.indeed.com/career-advice/resumes-cover-letters/skills-for-a-data-scientist  
-Kramer, M. (2023, July 31). *Everything you should know about data science jobs*. Built In. https://builtin.com/data-science/data-science-jobs
-Northeastern University. (n.d.). *7 data science careers shaping our future*. Northeastern University Graduate Programs. https://graduate.northeastern.edu/knowledge-hub/data-science-careers-shaping-our-future/
+- Burnett, B., & Evans, D. J. (2016). *Designing your life: How to build a well-lived, joyful life*. Knopf.  
+- Dalton, S. (2020). *The 2-hour job search: Using technology to get the right job faster* (2nd ed.). Ten Speed Press.  
+- Dalton, S. (2018). *The job closer: Time-saving techniques for acing resumes, interviews, negotiations, and more*. Ten Speed Press.  
+- Figueroa, M. (2023, March 7). *Your guide to landing a data science job*. Handshake. https://joinhandshake.com/blog/students/data-science-jobs/  
+- Indeed Editorial Team. (2023, December 26). *15 types of data science jobs (with descriptions)*. Indeed Career Guide. https://www.indeed.com/career-advice/finding-a-job/types-of-data-science-jobs  
+- Indeed Editorial Team. (2023, December 13). *Top 13 data scientist skills to develop*. Indeed Career Guide. https://www.indeed.com/career-advice/resumes-cover-letters/skills-for-a-data-scientist  
+- Kramer, M. (2023, July 31). *Everything you should know about data science jobs*. Built In. https://builtin.com/data-science/data-science-jobs
+- Northeastern University. (n.d.). *7 data science careers shaping our future*. Northeastern University Graduate Programs. https://graduate.northeastern.edu/knowledge-hub/data-science-careers-shaping-our-future/
 
